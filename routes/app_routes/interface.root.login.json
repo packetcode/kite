@@ -1,0 +1,9 @@
+{
+	"R0": "R1",
+	"R1": {
+		"N1": "admin",
+		"N2": "login",
+		"ENABLE": "1",
+		"NODE_ROUTE_FILE": "root.admin.login.json"
+	}
+}

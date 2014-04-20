@@ -1,0 +1,14 @@
+{
+	"APP_APPLICATION": "interface",
+	"APP_CONTROLLER": "root",
+	"APP_METHOD": "main",
+	"OPTIONS": "anb\/cb",
+	"PARAMS": "a=3&b=4",
+	"THEME": "bottle",
+	"META_TITLE": "Simple",
+	"META_DESC": "This is DEsc Co nten You asked, Font Awesome delivers with 11 shiny new icons in version 4.0. Want to request new icons? Here's how. Need vectors or want to use on the desktop? Check the cheatsheet.You asked, Font Awesome delivers with 11 shiny new icons in version 4.0. Want to request new icons? Here's how. Need vectors or want to use on the desktop? Check the cheatsheet.You asked, Font Awesome delivers with 11 shiny new icons in version 4.0. Want to request new icons? Here's how. Need vectors or want to use on the desktop? Check the cheatsheet.You asked, Font Awesome delivers with 11 shiny new icons in version 4.0. Want to request new icons? Here's how. Need vectors or want to use on the desktop? Check the cheatsheet.You asked, Font Awesome delivers with 11 shiny new icons in version 4.0. Want to request new icons? Here's how. Need vectors or want to use on the desktop? Check the cheatsheet.You asked, Font Awesome delivers with 11 shiny new icons in version 4.0. Want to request new icons? Here's how. Need vectors or want to use on the desktop? Check the cheatsheet.You asked, Font Awesome delivers with 11 shiny new icons in version 4.0. Want to request new icons? Here's how. Need vectors or want to use on the desktop? Check the cheatsheet.You asked, Font Awesome delivers with 11 shiny new icons in version 4.0. Want to request new icons? Here's how. Need vectors or want to use on the desktop? Check the cheatsheet.You asked, Font Awesome delivers with 11 shiny new icons in version 4.0. Want to request new icons? Here's how. Need vectors or want to use on the desktop? Check the cheatsheet.",
+	"O1": "anb",
+	"O2": "cb",
+	"ENABLE": "1",
+	"APP_ROUTE_FILE": "interface.root.main.anb.cb.json"
+}

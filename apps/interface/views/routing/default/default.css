@@ -1,0 +1,32 @@
+.w100{
+	width:100%;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;  
+}
+.btn{
+	background:#16a085;
+}
+.btn-big{
+	padding:10px;
+}
+
+.strong{
+	font-weight:bold;
+}
+
+.well{
+	background:#f8f8f8;
+	padding:15px;
+	margin: 0px auto 15px;
+	border-radius:5px;
+}
+
+.strip{
+	background:#ecf0f1;
+	padding:2px;
+}
+h3{
+	margin:10px auto;
+	font-size:20px;
+}

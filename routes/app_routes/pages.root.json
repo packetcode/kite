@@ -1,0 +1,8 @@
+{
+	"R1": {
+		"N1": "root",
+		"ENABLE": "1",
+		"NODE_ROUTE_FILE": "root.json"
+	},
+	"R0": "R1"
+}

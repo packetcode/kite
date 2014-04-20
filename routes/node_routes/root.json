@@ -1,0 +1,12 @@
+{
+	"APP_APPLICATION": "pages",
+	"APP_CONTROLLER": "root",
+	"THEME": "social",
+	"LAYOUT": "index",
+	"META_TITLE": "Feedstack",
+	"META_DESC": "This is from Pages App Feedstack",
+	"META_AUTHOR": "Raj Ramesh",
+	"META_KEYWORDS": "pages,key,sample",
+	"ENABLE": "1",
+	"APP_ROUTE_FILE": "pages.root.json"
+}

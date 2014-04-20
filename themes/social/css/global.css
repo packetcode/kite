@@ -1,0 +1,25 @@
+body{
+	margin:0px;
+	padding:0px;
+	background: #f8f8f8;
+	font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #444;
+	word-wrap:break-word;
+}
+
+
+.bcol-left{
+	width:70%;
+}
+
+.bcol-right{
+	width:30%;
+}
+
+[class*='bcol-'] {
+	float: left;
+}
+
+.clear{
+clear: both;
+}

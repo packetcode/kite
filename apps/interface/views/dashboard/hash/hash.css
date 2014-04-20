@@ -1,0 +1,9 @@
+.btn{
+	    background:#16a085;
+}
+.w100{
+	width:100%;
+	-webkit-box-sizing: border-box; 
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;  
+}

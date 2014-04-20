@@ -1,0 +1,8 @@
+{
+	"R1": {
+		"N1": "samplees",
+		"ENABLE": "1",
+		"NODE_ROUTE_FILE": "root.samplees.json"
+	},
+	"R0": null
+}

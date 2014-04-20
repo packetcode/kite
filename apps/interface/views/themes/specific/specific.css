@@ -1,0 +1,61 @@
+
+.theme_header{
+
+}
+.theme_details{
+	padding:15px;
+}
+
+.theme_params_main{
+	padding:15px;
+}
+
+.theme_params{
+
+}
+
+.theme_listing{
+	padding:10px;
+	background:#7f8c8d;
+	color:white;
+	min-height:100%;
+}
+.theme_image{
+	width:100%;
+	vertical-align:bottom;
+	border:0;
+}
+.theme_image_div{
+}
+
+.well{
+	border-radius:0px 0px 5px 5px;
+}
+.well-head{
+	padding:10px 15px;
+	background:#ecf0f1;
+	border-radius:5px 5px 0px 0px;
+}
+.well-header-bn{
+	margin-bottom:0px;
+}
+.menu_dir_name, .menu_dir{
+	cursor:pointer;
+}
+
+.menu_dir_item{
+	cursor:pointer;
+	padding:3px 10px;
+	margin-right:20px;
+}
+
+.invalid{
+	cursor:not-allowed;
+}
+
+.menu_dir_list{
+	list-style-type: none;
+	padding-left:10px;
+	margin:0px;
+}
+

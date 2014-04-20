@@ -1,0 +1,11 @@
+{
+	"TWITTER":{
+		"CONSUMER_KEY":"QbKR8TZLPo2IXH5mmVA4A",
+		"CONSUMER_SECRET":"9NcMtUhD6MTeFPLX28y9sLYFzNSg5kQczcHybS30Wlw",
+		"OAUTH_CALLBACK":"http://feedstack.asia/user/core/twitter_log"
+	},
+	"SECURE":"0",
+	"BLOCK":"0",
+	"UPDATE":"0",
+	"INSTALLATION" : "1"
+}

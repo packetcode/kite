@@ -1,0 +1,64 @@
+
+.bcontainer {
+		width:900px;
+		margin:0px auto;
+		word-wrap: break-word;
+}
+
+.bcol-10{
+	width:9%;
+}
+
+.bcol-15{
+	width:14%;
+}
+
+.bcol-20{
+	width:20%;
+}
+.bcol-25{
+	width:25%;
+}
+.bcol-30{
+	width:30%;
+}
+.bcol-33{
+	width:33%;
+}
+
+.bcol-40{
+	width:40%;
+}
+.bcol-50{
+	width:50%;
+}
+.bcol-60{
+	width:60%;
+}
+.bcol-70{
+	width:70%;
+}
+.bcol-75{
+	width:75%;
+}
+.bcol-80{
+	width:80%;
+}
+.bcol-85{
+	width:85%;
+}
+.bcol-90{
+	width:88%;
+}
+.bcol-100{
+	width:96%;
+}
+
+[class*='bcol-'] {
+	float: left;
+}
+
+.clear{
+clear: both;
+}
+

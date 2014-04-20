@@ -1,0 +1,13 @@
+{
+	"R2": {
+		"N1": "admin",
+		"ENABLE": "1",
+		"NODE_ROUTE_FILE": "root.admin.json"
+	},
+	"R0": "R2",
+	"R1": {
+		"N1": "new",
+		"ENABLE": "1",
+		"NODE_ROUTE_FILE": "root.new.json"
+	}
+}

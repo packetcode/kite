@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /apps/
+Disallow: /interface/
+Disallow: /img/
+Disallow: /lib/
+Disallow: /routes/
+Disallow: /snippets/
+Disallow: /themes/
+Disallow: /threads/
+Disallow: /tmp/

@@ -1,0 +1,1 @@
+	<img   src="<?php echo ROOT; ?>img/kite_logo.png" />

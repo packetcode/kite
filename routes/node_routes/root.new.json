@@ -1,0 +1,10 @@
+{
+	"APP_APPLICATION": "interface",
+	"THEME": "new",
+	"META_TITLE": "Pages TEmaplte",
+	"META_DESC": "This is the sample description of the New Admin Template",
+	"META_AUTHOR": "KRishna",
+	"META_KEYWORDS": "New,Admin,template,teja",
+	"ENABLE": "1",
+	"APP_ROUTE_FILE": "interface.json"
+}

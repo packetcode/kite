@@ -1,0 +1,21 @@
+
+
+
+.icon-name a{
+	color:#95a5a6;
+	text-decoration: none;
+
+}
+
+.icon-name a:hover{
+	color:#7f8c8d;
+
+}
+
+.icon-name:hover{
+}
+
+.header{
+	background:#f8f8f8;
+	height:10px;
+}

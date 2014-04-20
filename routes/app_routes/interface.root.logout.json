@@ -1,0 +1,15 @@
+{
+	"R0": "R1",
+	"R1": {
+		"NODE_ROUTE_FILE": "root.admin.logout.json",
+		"ENABLE": "1",
+		"N1": "admin",
+		"N2": "logout"
+	},
+	"R2": {
+		"NODE_ROUTE_FILE": "root.interface.logout.json",
+		"ENABLE": "1",
+		"N1": "interface",
+		"N2": "logout"
+	}
+}

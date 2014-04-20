@@ -1,0 +1,78 @@
+.show-well{
+	min-height:250px;
+}
+
+.btn:disabled{
+	background:#95a5a6;
+	color:#f8f8f8;
+	cursor:not-allowed;
+}
+
+.grn{
+	background:#1abc9c;
+}
+.red{
+	background: #e74c3c;
+}
+.blu{
+	background:#3498db;
+}
+
+.yellow{
+	background: #f39c12;
+}
+.strong{
+	font-weight:bold;
+}
+.route{
+	background:#f8f8f8;
+	padding:3px 10px;
+	border-radius: 4px;
+}
+
+.alert{
+	background:#1abc9c;
+	color:white;
+	padding:10px;
+	margin-bottom:20px;
+}
+
+.alert b{
+	color:white;
+}
+
+.well-header{
+	margin: 0px auto 15px;
+	border-radius:5px;
+}
+.well{
+	background:#f8f8f8;
+	padding:10px;
+	margin: 0px auto 15px;
+	border-radius:5px;
+}
+
+.well-header-in{
+	padding:10px;
+}
+.well-header-bn{
+	background:#f8f8f8;
+	padding:10px;
+}
+
+.strip{
+	padding:2px;
+}
+
+.star{
+	color:#f1c40f;
+}
+
+.white{
+	color:#bdc3c7;
+}
+
+h3{
+	margin:10px auto;
+	font-size:20px;
+}

@@ -1,0 +1,53 @@
+body{
+	background:#ecf0f1;
+}
+.container{
+	padding:30px;
+	background:white;
+
+}
+
+.wrap{
+	width:300px;
+	margin:40px auto;
+	box-shadow: 1px 1px 1px 1px #f1f1f1;
+}
+
+.wrap2{
+	margin:40px auto;
+	width:700px;
+	box-shadow: 0px 0px 2px #E8E8E8 ;
+}
+.logo{
+	padding:10px 0px;
+	text-align:center;
+	background:#2980B9;
+}
+
+.alert{
+	padding:8px 10px;
+	border-radius:3px;
+}
+
+.car{
+	padding:10px;
+}
+.alert-danger{
+	background:#16A085;
+	color:white;
+}
+
+input[type="password"]{
+	background:#f8f8f8;
+}
+
+.btn{
+	background:white;
+	color:#7f8c8d;
+	font-weight:bold;
+	border:1px solid #bdc3c7;
+}
+.strip{
+	height:2px;
+	background: #3498db;
+}

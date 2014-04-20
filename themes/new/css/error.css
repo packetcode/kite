@@ -1,0 +1,36 @@
+body{
+	margin:0px;
+	padding:0px;
+	font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #444;
+	word-wrap:break-word;
+	background:#95A5A5;
+}
+
+.error{
+	width:400px;
+	background:white;
+	padding:30px;
+	margin:30px auto;
+}
+.card{
+	padding:10px;
+	background:#f8f8f8;
+	border-radius:5px;
+	margin-top:-5px;
+}
+.card-top{
+	padding:10px 10px 15px;
+	background:#ecf0f1;
+	border-radius:5px;
+	text-align:center;
+}
+.oops{
+	font-size:70px;
+	line-height:80px;
+	text-align:center;
+}
+.wrong{
+	font-weight:bold;
+	text-align:center;
+}

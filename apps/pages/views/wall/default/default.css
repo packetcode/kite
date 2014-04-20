@@ -1,0 +1,157 @@
+.card{
+	background:#2980b9;
+	padding:15px;
+	height:100px;
+	border-radius:5px;
+	position:relative;
+}
+.feed{
+	padding-bottom:20px;
+}
+.feed_block{
+	background:white;
+	padding:15px;
+	border-radius:5px;
+	position:relative;
+}
+.feed_block_user{
+	padding:4px;
+}
+.delete{
+	float:right;
+	cursor:pointer;
+}
+.feed_block:before{
+	content:"";
+	position:absolute;
+	width:0px;
+	height:0px;
+	border: 12px solid;
+	left:-22px;
+	top:15px;
+	border-color:transparent white transparent transparent;
+}
+.feed_container{
+	padding-right:5px;
+	padding-left:15px;
+}
+.feed_connect{
+	background:#F1F6F5;
+	margin-top:-10px;
+	margin-right:1px;
+	margin-left:1px;
+	padding:20px 10px 10px 10px;
+	border-radius: 0px 0px 8px 8px;
+	box-shadow: 0px 0px 1px 1px #E2E7E6;
+	font-weight:bold;
+	color: #95a5a6;
+}
+
+.feed_input{
+	background:white;
+	padding:20px;
+	position:relative;
+}
+.feed_input:before{
+content:"";
+	position:absolute;
+	width:0px;
+	height:0px;
+	border: 10px solid;
+	left:-20px;
+	top:0px;
+	border-color:white white transparent transparent;
+}
+textarea.feed_box{
+	width:100%;
+	-webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+	margin-bottom:5px;
+}
+.feed_comment{
+	background:white;
+	margin-top:-5px;
+	padding:10px 5px 5px 5px;
+}
+.feed_comment_input{
+	
+}
+.feed_comment_text{
+	background:#f8f8f8;
+	padding:10px;
+	border-radius:7px;
+	position:relative;
+}
+.feed_comment_text:before{
+content:"";
+	position:absolute;
+	width:0px;
+	height:0px;
+	border: 12px solid;
+	left:-22px;
+	top:10px;
+	border-color:transparent #f8f8f8 transparent transparent;
+
+}
+
+.feed_comment_block{
+	padding-bottom:5px;
+}
+
+.user_comment{
+	padding:2px 7px;
+}
+.user_img_comment{
+	width:40px;
+	border-radius:40px;
+}
+.user_comment_input{
+	width:100%;
+	-webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+.feed_time{
+	float:right;
+	font-weight:bold;
+}
+.block{
+	padding:0px 0px;
+}
+
+.user_img{
+	border-radius:10px;
+	width:100%;
+}
+.user_img{
+	box-shadow: 1px 1px 1px 1px #B3D3CD;
+}
+
+
+.user_img_2{
+	width:85%;
+	border-radius: 4px;
+}
+
+.liked{
+	color:#f39c12;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+    margin-top:10px;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+- See more at: http://avexdesigns.com/responsive-youtube-embed/#sthash.y21iLvKj.dpuf

@@ -1,0 +1,9 @@
+{
+	"APP_APPLICATION": "math",
+	"APP_CONTROLLER": "root",
+	"APP_METHOD": "add",
+	"THEME": "new",
+	"META_TITLE": "SAmplees",
+	"ENABLE": "1",
+	"APP_ROUTE_FILE": "math.root.add.json"
+}

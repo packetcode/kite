@@ -1,0 +1,4 @@
+{
+	"MENU":["home","profile","admin","members","logout"],
+	"ENABLE":"1"
+}

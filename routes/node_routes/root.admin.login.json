@@ -1,0 +1,11 @@
+{
+	"APP_APPLICATION": "interface",
+	"APP_CONTROLLER": "root",
+	"APP_METHOD": "login",
+	"THEME": "interface",
+	"LAYOUT": "hash",
+	"META_TITLE": "Login",
+	"META_DESC": "This is fro TeLgin\r\n\r\n\r\n\r\n\r\n",
+	"ENABLE": "1",
+	"APP_ROUTE_FILE": "interface.root.login.json"
+}

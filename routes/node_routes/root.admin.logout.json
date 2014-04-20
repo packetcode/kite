@@ -1,0 +1,9 @@
+{
+	"APP_APPLICATION": "interface",
+	"APP_ROUTE_FILE": "interface.root.logout.json",
+	"APP_CONTROLLER": "root",
+	"APP_METHOD": "logout",
+	"THEME": "interface",
+	"LAYOUT": "hash",
+	"ENABLE": "1"
+}

@@ -1,0 +1,14 @@
+{
+	
+	"APP_APPLICATION":"interface",
+	"APP_CONTROLLER":"root",
+	"APP_METHOD":"logout",
+	"THEME":"bottle",
+	"LAYOUT":"index",
+	"META_TITLE":"Pages App",
+	"META_AUTHOR":"PageAuthor",
+	"META_DESC":"This is from Pages App",
+	"META_KEYWORDS":"pages,key,sample",
+	"ENABLE":"1"
+
+}

@@ -1,0 +1,70 @@
+.w100{
+	width:100%;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;  
+}
+
+.btn-big{
+	background:#1abc9c;
+	padding:12px 10px;
+}
+
+.strong{
+	font-weight:bold;
+}
+
+#flip-head{
+	background: white;
+	width:100%;
+}
+
+.well{
+	background:#f8f8f8;
+	padding:15px;
+	margin: 0px auto 15px;
+}
+
+.pull-right{
+	float:right;
+}
+
+.strip{
+	padding:2px;
+}
+.grey{
+	background:#ecf0f1;
+	color:white;
+}
+
+.green{
+	background:#16A085;
+	color:white;
+}
+.red{
+	background: #e74c3c;
+}
+.blu{
+	background:#3498db;
+}
+
+.well-header-bn{
+	background:#f8f8f8;
+	padding:10px;
+	margin-bottom:10px;
+}
+
+small{
+	color:#7E8C8D;
+	font-size:11px;
+	margin-bottom:20px;
+}
+h3{
+	margin:10px auto;
+	font-size:20px;
+}
+
+.header_image{
+	padding:10px 10px;
+	text-align:center;
+}

@@ -1,0 +1,7 @@
+{
+	"enable":"1",
+	"run":{
+		"app":"global",
+		"checkpoint":"global"
+	}
+}

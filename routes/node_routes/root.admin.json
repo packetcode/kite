@@ -1,0 +1,6 @@
+{
+	"APP_APPLICATION": "interface",
+	"THEME": "interface",
+	"ENABLE": "1",
+	"APP_ROUTE_FILE": "interface.json"
+}
